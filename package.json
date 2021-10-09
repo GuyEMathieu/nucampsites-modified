@@ -1,0 +1,30 @@
+{
+    "name": "nucampsites-modified",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "scripts": {
+        "lite": "lite-server",
+        "start": "npm run lite",
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/GuyEMathieu/nucampsites-modified.git"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/GuyEMathieu/nucampsites-modified/issues"
+    },
+    "homepage": "https://github.com/GuyEMathieu/nucampsites-modified#readme",
+    "dependencies": {
+        "@fortawesome/fontawesome-free": "^5.15.4",
+        "bootstrap": "^4.6.0",
+        "bootstrap-social": "^5.1.1",
+        "jquery": "^3.6.0",
+        "lite-server": "^2.6.1",
+        "popper.js": "^1.16.1"
+    }
+}
